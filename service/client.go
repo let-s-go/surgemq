@@ -21,9 +21,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/surgemq/message"
-	"github.com/surgemq/surgemq/sessions"
-	"github.com/surgemq/surgemq/topics"
+	"github.com/let-s-go/message"
+	"github.com/let-s-go/surgemq/sessions"
+	"github.com/let-s-go/surgemq/topics"
 )
 
 const (

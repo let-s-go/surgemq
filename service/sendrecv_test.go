@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/require"
-	"github.com/surgemq/message"
+	"github.com/let-s-go/message"
 )
 
 func TestReadMessageSuccess(t *testing.T) {

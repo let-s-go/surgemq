@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/surge/glog"
-	"github.com/surgemq/message"
+	"github.com/let-s-go/message"
 )
 
 type netReader interface {

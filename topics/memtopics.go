@@ -19,7 +19,7 @@ import (
 	"reflect"
 	"sync"
 
-	"github.com/surgemq/message"
+	"github.com/let-s-go/message"
 )
 
 var (
